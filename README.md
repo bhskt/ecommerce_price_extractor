@@ -1,5 +1,5 @@
 #eCommerce Website Price Extractor
-##RegEx Independent Method / Using On Fuzzy Logic Based on CSS
+##RegEx Independent Method / Using Fuzzy Logic Based on CSS
 
 Works by identifying and sorting HTML elements containing price data by using their CSS font-size & color properties.
 **Version 1.0** : Works With Flipkart, ShopClues, Amazon.In, SnapDeal.
