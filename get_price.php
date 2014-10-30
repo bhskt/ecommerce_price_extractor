@@ -68,9 +68,8 @@ function getPrice($url){
 			$m[1]=floatval($m[1]);
 			if($q["rel"]>=3){
 				$min=$m[1];
-				break;
 			}
-			if($min==0 || ($min>=$m[1] && abs((($m[1]-$min)*100/$min))<=10)){
+			if($min==0 || ($min>=$m[1] && abs((($m[1]-$min)*100/$min))<=20)){
 				$min=$m[1];
 			}
 			else{
