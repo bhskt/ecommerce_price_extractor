@@ -16,11 +16,11 @@ $list=[
 	],
 	[
 		"site"=>"Flipkart (Mobile Site)",
-		"url"=>"http://m.flipkart.com/nokia-lumia-530-dual-sim/p/itmdyrgaksgmj8zx",
+		"url"=>"http://m.flipkart.com/nokia-lumia-630-dual-sim/p/itmeyfptbgf9gv6s?pid=MOBDW52BHNVSGFFS",
 	],
 	[
 		"site"=>"SnapDeal (Mobile Site)",
-		"url"=>"http://m.snapdeal.com/product/nokia-lumia-530-dual-sim/785382335"
+		"url"=>"http://m.snapdeal.com/product/nokia-lumia-630-dual-sim/1457636194"
 	]
 ];
 
