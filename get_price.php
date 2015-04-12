@@ -1,4 +1,5 @@
 <?php
+/* First Modification to Version 1 */
 require "phpQuery.php";
 function getPrice($url){
 	$c=curl_init();
